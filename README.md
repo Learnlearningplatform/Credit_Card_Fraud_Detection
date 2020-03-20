@@ -1,6 +1,16 @@
-# Credit_Card_Fraud_Detection
-#### To Check if the transaction was a real or fraud using Logistic Regression.
-#### Also preformed Feature Selection and Removed Outlier.
-#### Checked the score Used KFold Validation.
 
-### Data Set used: [ https://www.kaggle.com/mlg-ulb/creditcardfraud/version/3 ]
+# Project Name
+This project is a Detection of the Credit Card Transactions to check wheather it is fraud or real,using Machine Learning.
+
+
+### Methods Used
+* Feature Engineering
+* Machine Learning
+* Data Visualization
+
+
+
+### Technologies 
+* Python
+
+
